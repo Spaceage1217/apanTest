@@ -6,3 +6,5 @@ Lectures: M, W : 5:00 - 6:20
  
 CS5331 : Crafting Compilers
 Lectures: M, W : 5:00 - 6:20
+
+Office hours (CMAL 307A) M : 11-1 W : 11-2
