@@ -33,3 +33,6 @@ Jun '15: GPU tuning paper accepted at [HPCC15](http://cse.stfx.ca/~hpcc2015/)
 May '15: Paper on GPU optimization recommendation accepted at PDPTA15
 
 Apr '15: Parallel tabu search paper accepted at [XSEDE15](https://conferences.xsede.org)
+
+May '17: News Component now works!
+
